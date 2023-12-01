@@ -8,7 +8,7 @@ import { RouterLink, RouterView } from 'vue-router';
    <nav class="navbar navbar-expand-lg bg-primary">
     <div class="container-fluid">
       <img src="\src\assets\imgs\pokeball.png" style="width: 2em; height: 2em; margin-right: 5px;" alt="">
-      <router-link  class="navbar-brand text-white link" to="home">Pokevite</router-link>  
+      <router-link  class="navbar-brand text-white" to="home">Pokevite</router-link>  
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
